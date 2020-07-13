@@ -1,0 +1,7 @@
+@charset "UTF-8";
+.navbar {
+	text-transform: uppercase;
+	color: #300;
+	text-decoration: underline;
+	font-weight:bold
+}
